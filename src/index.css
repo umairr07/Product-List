@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/017/457/394/small/simple-background-with-gradient-shape-green-vector.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: ; */
+}
